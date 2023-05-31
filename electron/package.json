@@ -1,0 +1,11 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "simple calc",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "lonely43",
+  "license": "MIT"
+}
